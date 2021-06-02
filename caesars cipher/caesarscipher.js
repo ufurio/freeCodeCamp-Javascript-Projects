@@ -3,7 +3,7 @@ function rot13(str) {
 
 	let decoded = "";
 
-	let key = {
+	const key = {
 		a: "n",
 		b: "o",
 		c: "p",
