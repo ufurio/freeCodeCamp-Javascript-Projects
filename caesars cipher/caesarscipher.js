@@ -1,5 +1,5 @@
 function rot13(str) {
-	var str = str.toLowerCase();
+	const str = str.toLowerCase();
 
 	let decoded = "";
 
